@@ -1,0 +1,13 @@
+h1{
+  color: aqua
+}
+.box-img{
+    height: 250px;
+  width: 250px;
+  border: 1px solid;
+}
+
+.img{
+    height: 100%; 
+    width: 100%;
+}
